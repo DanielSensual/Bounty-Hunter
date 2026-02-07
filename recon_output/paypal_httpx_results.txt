@@ -1,0 +1,5 @@
+https://shopping.paypal.com [[33m301[0m,[32m200[0m] [[36mDiscover Our Current Offers | PayPal US[0m] [[35mHSTS,PayPal,Varnish[0m]
+https://ipnpb.glb.paypal.com [[33m302[0m,[32m200[0m] [[36mPay, Send and Save Money with PayPal | PayPal US[0m] [[35mHSTS,Nginx,PayPal[0m]
+https://ipnpb.paypal.com [[33m302[0m,[32m200[0m] [[36mPay, Send and Save Money with PayPal | PayPal US[0m] [[35mHSTS,Nginx,PayPal[0m]
+https://images.payflowlink-edgemigration.glb.paypal.com [[33m302[0m,[32m200[0m] [[36mPay, Send and Save Money with PayPal | PayPal US[0m] [[35mHSTS,PayPal[0m]
+https://registration-edgemigration.glb.paypal.com [[33m302[0m,[32m200[0m] [[36mPay, Send and Save Money with PayPal | PayPal US[0m] [[35mHSTS,Nginx,PayPal[0m]

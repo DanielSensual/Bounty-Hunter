@@ -1,0 +1,10 @@
+{
+  "listener_domain": "auto",
+  "allowed_scope": [],
+  "hackerone_username": "danielghostai",
+  "hackerone_api_token": "79T94WF+moszoaHBBSiMrteoYlVt5fYMotgGnS97NEo=",
+  "rate_limit": 10,
+  "max_subdomains": 500,
+  "crawl_depth": 3,
+  "auto_report": true
+}
